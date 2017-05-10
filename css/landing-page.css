@@ -70,7 +70,7 @@ h6 {
 
     .intro-message > h1 {
 	font-size: 3em;
-	color: #FFFFFF;
+	color: #f7923b;
     }
 
     ul.intro-social-buttons > li {
@@ -324,4 +324,6 @@ input {
         #backtop.mcOut {
             opacity:0;
         }
-  
+  ul {
+   font-size: 16px
+   }
